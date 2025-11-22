@@ -1,0 +1,23 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="42" fill="url(#gradient)"/>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="192" y2="192" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Sunrise Icon -->
+  <circle cx="96" cy="70" r="20" fill="white" opacity="0.9"/>
+  <line x1="96" y1="35" x2="96" y2="45" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <line x1="126" y1="70" x2="116" y2="70" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <line x1="66" y1="70" x2="76" y2="70" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <line x1="115" y1="49" x2="108" y2="56" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <line x1="77" y1="49" x2="84" y2="56" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Number 3 -->
+  <text x="96" y="140" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle">3</text>
+  
+  <!-- Subtitle -->
+  <text x="96" y="165" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle" opacity="0.9">MOMENTOS</text>
+</svg>
